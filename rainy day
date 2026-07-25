@@ -46,12 +46,12 @@
       "#3b5580"
     ],
     "BACKGROUND_FLOATING": [
-      "#131d29cc",
-      "#131d29cc"
+      "#334869",
+      "#334869"
     ],
     "CHAT_BACKGROUND": [
-      "#0f172299",
-      "#0f172299"
+      "#334869",
+      "#334869"
     ],
     "HEADER_PRIMARY": [
       "#d7dde6",
@@ -112,13 +112,13 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ramboggpro987-dev/discord-theme/refs/heads/main/5ff3f655-281b-4839-a031-2c48ad1b56d0.jpeg",
-    "blur": 4,
+    "blur": 1,
     "alpha": 0.3
   },
   "properties": {
     "accent": "#3b5580",
-    "transparency": 0.3,
-    "blur": 4,
+    "transparency": 0.1,
+    "blur": 1,
     "cornerRadius": 16,
     "textColor": "#d7dde6"
   }
