@@ -1,0 +1,69 @@
+{
+  "name": "Rainy Day",
+  "description": "A calm bluish-dark Discord theme inspired by gentle rain, soft reflections, and misty skies. Designed with subtle glassmorphism, muted gray text, and a relaxing atmosphere that's easy on the eyes.",
+  "authors": [
+    {
+      "name": "void.star"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#E1E5EA"],
+    "HEADER_SECONDARY": ["#B8C0CC"],
+    "TEXT_NORMAL": ["#C8CDD6"],
+    "TEXT_MUTED": ["#9AA4B2"],
+    "TEXT_LINK": ["#79B8FF"],
+    "TEXT_POSITIVE": ["#72D98C"],
+    "TEXT_WARNING": ["#F0C674"],
+    "TEXT_DANGER": ["#F06A6A"],
+    "INTERACTIVE_NORMAL": ["#B9C3D1"],
+    "INTERACTIVE_HOVER": ["#D2D9E2"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#707C8D"],
+    "BACKGROUND_PRIMARY": ["rgba(17,24,34,0.70)"],
+    "BACKGROUND_SECONDARY": ["rgba(22,31,44,0.70)"],
+    "BACKGROUND_SECONDARY_ALT": ["rgba(26,36,50,0.70)"],
+    "BACKGROUND_TERTIARY": ["rgba(14,20,30,0.70)"],
+    "BACKGROUND_ACCENT": ["rgba(90,140,200,0.20)"],
+    "BACKGROUND_FLOATING": ["rgba(20,28,40,0.78)"],
+    "BACKGROUND_MOBILE_PRIMARY": ["rgba(17,24,34,0.70)"],
+    "BACKGROUND_MOBILE_SECONDARY": ["rgba(22,31,44,0.70)"],
+    "CHANNELTEXTAREA_BACKGROUND": ["rgba(28,38,53,0.65)"],
+    "CARD_PRIMARY_BG": ["rgba(20,28,40,0.72)"],
+    "CARD_SECONDARY_BG": ["rgba(26,36,50,0.68)"],
+    "MODAL_BACKGROUND": ["rgba(18,25,36,0.82)"],
+    "MODAL_FOOTER_BACKGROUND": ["rgba(14,20,30,0.82)"],
+    "CHAT_BACKGROUND": ["transparent"],
+    "BRAND_500": ["#6EA8FF"],
+    "BRAND_560": ["#82B7FF"],
+    "BRAND_600": ["#5A96F5"],
+    "BUTTON_FILLED_BRAND_BACKGROUND": ["#6EA8FF"],
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": ["#82B7FF"],
+    "STATUS_GREEN": ["#72D98C"],
+    "STATUS_YELLOW": ["#F0C674"],
+    "STATUS_RED": ["#F06A6A"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#E1E5EA",
+    "PRIMARY_200": "#C8CDD6",
+    "PRIMARY_300": "#B8C0CC",
+    "PRIMARY_400": "#9AA4B2",
+    "PRIMARY_500": "#7E8997",
+    "PRIMARY_600": "#5A96F5",
+    "PRIMARY_700": "#44546A",
+    "PRIMARY_800": "#243140",
+    "PRIMARY_900": "#111822",
+    "BRAND_500": "#6EA8FF"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/discord-theme/refs/heads/main/5ff3f655-281b-4839-a031-2c48ad1b56d0.jpeg",
+    "blur": 6,
+    "overlay_alpha": 0.30
+  },
+  "properties": {
+    "cornerRadius": 8,
+    "transparency": 0.30,
+    "glassmorphism": true,
+    "backgroundOverlay": true
+  }
+}
