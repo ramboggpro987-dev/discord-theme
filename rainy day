@@ -1,6 +1,6 @@
 {
   "name": "Rainy Day",
-  "description": "A calm bluish-dark Discord theme inspired by gentle rain, misty skies, and peaceful evenings. Designed with soft transparency and muted colors for a relaxing experience.",
+  "description": "A peaceful rainy-day theme with cool blue tones, soft grey text, and a misty atmosphere.",
   "authors": [
     {
       "name": "void.star",
@@ -9,117 +9,37 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [
-      "#4e6385",
-      "#4e6385"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#7688a6",
-      "#7688a6"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#7688a6",
-      "#7688a6"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#3b5580",
-      "#3b5580"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#0f1722",
-      "#0f1722"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#16202d",
-      "#16202d"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#2a3444",
-      "#2a3444"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#324153",
-      "#324153"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#3b5580",
-      "#3b5580"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#334869",
-      "#334869"
-    ],
-    "CHAT_BACKGROUND": [
-      "#334869",
-      "#334869"
-    ],
-    "HEADER_PRIMARY": [
-      "#d7dde6",
-      "#d7dde6"
-    ],
-    "HEADER_SECONDARY": [
-      "#aeb8c6",
-      "#aeb8c6"
-    ],
-    "TEXT_NORMAL": [
-      "#d7dde6",
-      "#d7dde6"
-    ],
-    "TEXT_MUTED": [
-      "#9aa5b5",
-      "#9aa5b5"
-    ],
-    "TEXT_LINK": [
-      "#7ea4d8",
-      "#7ea4d8"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#c7d2df",
-      "#c7d2df"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#3b5580",
-      "#3b5580"
-    ],
-    "BRAND_500": [
-      "#3b5580",
-      "#3b5580"
-    ],
-    "BRAND_560": [
-      "#496792",
-      "#496792"
-    ]
+    "BACKGROUND_PRIMARY": ["#234378", "#234378"],
+    "BACKGROUND_SECONDARY": ["#536582", "#536582"],
+    "BACKGROUND_TERTIARY": ["#536582", "#536582"],
+    "BACKGROUND_FLOATING": ["#536582CC", "#536582CC"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#234378", "#234378"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#536582", "#536582"],
+
+    "CHAT_BACKGROUND": ["#234378B3", "#234378B3"],
+
+    "HEADER_PRIMARY": ["#D0D0D0", "#D0D0D0"],
+    "HEADER_SECONDARY": ["#B6B6B6", "#B6B6B6"],
+
+    "TEXT_NORMAL": ["#D0D0D0", "#D0D0D0"],
+    "TEXT_MUTED": ["#A8A8A8", "#A8A8A8"],
+    "TEXT_LINK": ["#FFFFFF", "#FFFFFF"],
+
+    "MENTION_FOREGROUND": ["#FFFFFF", "#FFFFFF"],
+    "BRAND_500": ["#FFFFFF", "#FFFFFF"],
+
+    "INTERACTIVE_NORMAL": ["#D0D0D0", "#D0D0D0"],
+    "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#60708A", "#60708A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#6A7A93", "#6A7A93"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#60708A", "#60708A"]
   },
-  "rawColors": {
-    "PRIMARY_100": "#d7dde6",
-    "PRIMARY_200": "#c3ccd8",
-    "PRIMARY_300": "#adb7c4",
-    "PRIMARY_400": "#9aa5b5",
-    "PRIMARY_500": "#8894a4",
-    "PRIMARY_600": "#6f7f93",
-    "PRIMARY_700": "#556577",
-    "PRIMARY_800": "#33404f",
-    "PRIMARY_900": "#1a2430",
-    "BRAND_500": "#3b5580",
-    "BRAND_600": "#496792",
-    "GREEN_500": "#5f9478",
-    "RED_500": "#b56d74",
-    "YELLOW_500": "#d0b26a"
-  },
+
   "background": {
     "url": "https://raw.githubusercontent.com/ramboggpro987-dev/discord-theme/refs/heads/main/5ff3f655-281b-4839-a031-2c48ad1b56d0.jpeg",
-    "blur": 1,
-    "alpha": 0.3
-  },
-  "properties": {
-    "accent": "#3b5580",
-    "transparency": 0.1,
-    "blur": 1,
-    "cornerRadius": 16,
-    "textColor": "#d7dde6"
+    "alpha": 0.3,
+    "blur": 4
   }
 }
